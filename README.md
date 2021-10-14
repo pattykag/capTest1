@@ -23,3 +23,7 @@ File or Folder | Purpose
 ## Learn More
 
 Learn more at https://cap.cloud.sap/docs/get-started/.
+
+## CDS Commands
+- cds init projectName to create a new project
+- cds watch (or cds w) to locally run your project
